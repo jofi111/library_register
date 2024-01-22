@@ -19,8 +19,9 @@ public class Main {
         app.checkOutBook("54321");
         app.checkOutBook("54321");
         app.checkOutBook("54321");
+        app.searchByTitle("Galactic");
     }
 }
 
 
-//keywords: "Echoes," "Last," "Enigma," ," "Circus," "Chronicles," "Cosmos," "Parallel," "Dead," and "Galactic"
+//keyword examples: "Echoes," "Last," "Enigma," ," "Circus," "Chronicles," "Cosmos," "Parallel," "Dead," and "Galactic"
